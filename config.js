@@ -8,29 +8,29 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Queen Anya Bot",
-    prefa: process.env.Prefix || "-",
+    botname: process.env.BotName || "Light",
+    footer: process.env.Footer || "© Bamireid",
+    prefa: process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "2348152119668",
+    ownernumber: process.env.Owner_Number || "2348152119668",
+    instagramId: process.env.Insta || "just_bamireid",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
+    author: process.env.Author || "@Bamireid",
+    packname: process.env.PackName || "Varry Black",
+    socialLink: process.env.Web || "https://github.com/Bamireid0",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://bamireid0:<EEEyyy12>@bamireid0.z7heykc.mongodb.net/?retryWrites=true&w=majority&appName=Bamireid0",
+    sessionId: process.env.SESSION_ID || "bkFZamlUN1IjdkR2c_Queen-Anya_Us4emowYzZwNXBHM0xXc_Queen-Anya_VkzRlFXeTI4dTF3dXlMR3VLUmxMQlZ4QQ==",
 
     /**
      * thumbnails and medias
